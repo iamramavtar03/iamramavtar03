@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamramavtar03&label=Profile%20views&color=0e75b6&style=flat" alt="ramavtar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamramavtar03" alt="ramavtar" /></a> </p>
+<p align="left"> <a href="https://github.com/iamramavtar03/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamramavtar03" alt="ramavtar" /></a> </p>
 
 
 - 🌱 I’m currently adding **Nextjs** to my arsenal , what are you adding to yours?
